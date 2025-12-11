@@ -51,6 +51,7 @@ https://www.getsinglefile.com/
 Аналог на Windows – Clip Diary. Позволяет вернуть давно утерянный в буфере обмена фрагмент.
 
 https://apps.apple.com/ru/app/flycut-clipboard-manager/id442160987?mt=12%20Flycut%20(Clipboard%20manager)
+
 https://clipdiary.com/rus/
 
 🔗Тренажеры быстрой печати
